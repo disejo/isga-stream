@@ -1,0 +1,8 @@
+google-api-python-client==2.197.0
+google-auth==2.54.0
+google-auth-httplib2==0.4.0
+google-auth-oauthlib==1.4.0
+itsdangerous==2.2.0
+python-dotenv==1.2.2
+requests==2.34.2
+streamlit==1.58.0
