@@ -16,3 +16,4 @@ venv.bak/
 google-credentials.json
 *.json
 !pyproject.toml
+!.streamlit/secrets.toml
